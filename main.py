@@ -3,7 +3,6 @@ from PIL import Image
 import io
 from pptx import Presentation
 from pptx.util import Inches
-import cv2
 import pytesseract
 import numpy as np
 import tempfile
